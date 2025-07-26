@@ -28,7 +28,7 @@ This is a Machine Learning-powered Streamlit web application that predicts emplo
 
 2. Install required packages:
 
-   ⦁	5!pip install streamlit pyngrok scikit-learn pandas matplotlib seaborn joblib
+   ⦁	!pip install streamlit pyngrok scikit-learn pandas matplotlib seaborn joblib
 
 
 3. Set up your ngrok authtoken:
